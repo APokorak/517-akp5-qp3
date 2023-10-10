@@ -1,5 +1,7 @@
 # Comp517 Project Assignment
 
+August Pokorak, Tom Pan
+
 The Com517 aims to produce original scholarship in the area
 You will design and carry out a semester-long research
 project (done in teams of 2-4). The hope is that these
